@@ -3,4 +3,5 @@
 def parrot(auto = "Squawk!")
   if auto
     puts "Squawk!"
+  end
 end
