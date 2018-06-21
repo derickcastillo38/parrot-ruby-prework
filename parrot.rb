@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(auto = "Squawk!")
   puts "Squawk!"
+  return "Squawk!"
 end
