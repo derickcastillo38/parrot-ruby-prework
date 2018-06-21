@@ -4,6 +4,6 @@ def parrot(auto = "Squawk!")
   if auto
     auto
   else
-    "Pretty bird!"
+    puts "Pretty bird!"
   end
 end
